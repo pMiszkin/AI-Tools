@@ -9,5 +9,9 @@ Some AI Tools that i like and use 🤖
 <strong>Images</strong>
 - [MidJourney](https://discord.com/channels/662267976984297473)
 
+<strong>Video</strong>
+- [Runway](https://app.runwayml.com/)
+- [Pika.art](https://pika.art/home)
+
 <strong>Music</strong>
 - [Suno AI](https://suno.ai) - Make a song and lirycs
