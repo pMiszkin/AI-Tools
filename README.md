@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/pMiszkin/AI-Tools/blob/main/ai-banner.png "AI banner")
 
-Some AI Tools that i like and use 🤖
+Some AI Tools that i like and use 🦾
 
 # [AI-Tools](https://github.com/pMiszkin/AI-Tools/)
 <strong>Language models</strong>
