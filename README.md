@@ -9,9 +9,10 @@ Some AI Tools that i like and use 🦾
 <strong>Images</strong>
 - [MidJourney](https://discord.com/channels/662267976984297473)
 
-<strong>Video</strong> - Just 4 seconds for free. Waitin on Sora from OpenAI
+<strong>Video</strong>
 - [Runway](https://app.runwayml.com/)
 - [Pika.art](https://pika.art/home)
+- -[Lumalabs](https://lumalabs.ai/) - video from image. nice quality
 
 <strong>Music</strong>
 - [Suno AI](https://suno.ai) - Make a song and lirycs
