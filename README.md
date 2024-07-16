@@ -16,3 +16,5 @@ Some AI Tools that i like and use 🦾
 
 <strong>Music</strong>
 - [Suno AI](https://suno.ai) - Make a song and lirycs
+
+Pls Leave a ⭐
