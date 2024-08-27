@@ -7,7 +7,8 @@ Some AI Tools that i like and use 🦾
 - [Chat GPT](https://chat.openai.com)
 
 <strong>Images</strong>
-- [MidJourney](https://discord.com/channels/662267976984297473)
+- [MidJourney](https://discord.com/channels/662267976984297473) - image generator
+- [Topaz Labs](https://www.topazlabs.com/) - Ai photo and video editor (photo upscaling)
 
 <strong>Video</strong>
 - [Runway](https://app.runwayml.com/)
