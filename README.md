@@ -6,6 +6,9 @@ Some AI Tools that i like and use 🦾
 <strong>Language models</strong>
 - [Chat GPT](https://chat.openai.com)
 
+<strong>Jailbreak GPT<strong>
+- [ChatGPT "DAN"](https://github.com/0xk1h0/ChatGPT_DAN)
+
 <strong>Images</strong>
 - [MidJourney](https://discord.com/channels/662267976984297473) - image generator
 - [Topaz Labs](https://www.topazlabs.com/) - Ai photo and video editor (photo upscaling)
